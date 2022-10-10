@@ -8,7 +8,7 @@
    <h3>Enmity Altstore</h3>
 
    Script used to automatically update our altsore repo when a new release is published.<br />
-   The alstore repo is available [here](https://altstore.enmity.app).
+   The altstore repo is available [here](https://altstore.enmity.app).
 </div>
 
 ---
